@@ -1,2 +1,0 @@
-(this["webpackJsonp75-hard-challenge"]=this["webpackJsonp75-hard-challenge"]||[]).push([[0],{11:function(e,n,c){"use strict";c.r(n);var a=c(1),t=c.n(a),r=c(3),s=c.n(r),d=(c(8),c(9),c(0));var h=function(){return Object(d.jsx)("div",{className:"App",children:Object(d.jsx)("header",{className:"App-header",children:"75 Days Hard Challenge"})})};s.a.render(Object(d.jsx)(t.a.StrictMode,{children:Object(d.jsx)(h,{})}),document.getElementById("root"))},8:function(e,n,c){},9:function(e,n,c){}},[[11,1,2]]]);
-//# sourceMappingURL=main.e7b77f41.chunk.js.map
