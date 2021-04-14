@@ -1,4 +1,8 @@
-import { useEffect, useState } from "react";
+/**
+ * Main page for app
+ */
+
+import React from 'react';
 import "./App.css";
 
 function App() {
