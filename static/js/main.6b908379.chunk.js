@@ -1,0 +1,2 @@
+(this["webpackJsonpfitness-tracker"]=this["webpackJsonpfitness-tracker"]||[]).push([[0],{11:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),s=c(3),i=c.n(s),a=(c(8),c(9),c(0));var d=function(){return Object(a.jsx)("div",{className:"App",children:Object(a.jsx)("header",{className:"App-header",children:Object(a.jsx)("h1",{children:"Fitness Tracker"})})})};i.a.render(Object(a.jsx)(r.a.StrictMode,{children:Object(a.jsx)(d,{})}),document.getElementById("root"))},8:function(e,t,c){},9:function(e,t,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.6b908379.chunk.js.map
