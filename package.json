@@ -1,8 +1,8 @@
 {
-  "name": "75-hard-challenge",
+  "name": "fitness-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://riceball1.github.io/75-hard-challenge",
+  "homepage": "http://riceball1.github.io/fitness-tracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -38,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "This project is a personal fitness tracker",
   "main": "index.js",
   "devDependencies": {
     "gh-pages": "^3.1.0"
