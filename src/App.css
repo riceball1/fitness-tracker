@@ -13,19 +13,3 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
 }
-
-.box-grid {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 20px;
-}
-
-.box {
-  border: 1px solid #FFF;
-  width: 100px;
-  height: 100px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-}
